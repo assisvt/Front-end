@@ -1,4 +1,4 @@
-< !--  Experimento de um site -- >
+< !--  "Brincando" com HTML e CSS com informação textual feita pelo ChatGPT. -- >
 <!doctype html>
 <!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
 <html lang="pt-br">
